@@ -8,4 +8,5 @@ This repo is for the projects for my data science portfolio and contains the fol
 	 * eda_utils.py file: contains the eda helper function from my other [repo](https://github.com/MhdAyoub-ai/eda-utils)
 	 * Salary Prediction Notebook.ipynb: the jupyter notebook containing the code and results of the analysis
 	 * multiple csv files containing statistics on different variables that I used in the analysis
-	 P.S. The data used in this code is not included in the repository as I am not sure if I can publically share it
+	
+	P.S. The data used in this code is not included in the repository as I am not sure if I can publically share it
